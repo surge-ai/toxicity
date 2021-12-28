@@ -5,7 +5,7 @@ Saving the internet is fun. Combing through thousands of online comments to buil
 
 We hope you find this sample of our dataset useful, whether you want to flag hateful speech, develop content moderation tools, or build classifiers to detect toxic messages.
 
-Intersted in the full dataset of toxicity to train your ML models, or toxicity in other languages (Spanish, French, German, Japanese, Portuguese, and 17+ more)? We work with top AI and Safety companies around the world to build human-powered datasets to train stunning ML. Reach out to team@surgehq.ai!
+Interested in the full dataset of toxicity to train your ML models, or toxicity in other languages (Spanish, French, German, Japanese, Portuguese, and 17+ more)? We work with top AI and Safety companies around the world to build human-powered datasets to train stunning ML. Reach out to team@surgehq.ai!
 
 ## Dataset
 This repo contains 500 toxic and 500 non-toxic comments from a variety of popular social media platforms. Click on [toxicity_en.csv](https://github.com/surge-ai/toxicity/blob/main/toxicity_en.csv) to see a spreadsheet of 1000 English examples. Rather than operating under a strict definition of toxicity, we asked our team to identify comments that they personally found toxic. 
