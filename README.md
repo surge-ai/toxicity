@@ -17,6 +17,8 @@ This repo contains 500 toxic and 500 non-toxic comments from a variety of popula
 ## Future
 We'll be adding more languages and annotations (e.g., augmenting each comment with a severity ranking, adding categories, etc) over time. 
 
+Sign up [here](https://forms.gle/R8QLd3GXtuzYdrgi9) to receive updates on this dataset and be the first to learn about new datasets we release!
+
 If you're also interested in a dataset of profanity, check out our [obscenity list](https://github.com/surge-ai/profanity).
 
 Follow us on Twitter at [@HelloSurgeAI](https://www.twitter.com/@HelloSurgeAI).
