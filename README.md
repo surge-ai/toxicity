@@ -15,7 +15,7 @@ This repo contains 500 toxic and 500 non-toxic comments from a variety of popula
 * `is_toxic`: whether or not the comment is toxic
 
 ## Future
-We'll be adding more languages and annotations (e.g., augmenting each comment with a severity ranking, adding categories, etc) over time. 
+We'll be adding more languages and annotations (e.g., augmenting each comment with a severity ranking, adding categories, etc) over time.  You can also check out our other free datasets [here](https://www.surgehq.ai/datasets).
 
 Sign up [here](https://forms.gle/R8QLd3GXtuzYdrgi9) to receive updates on this dataset and be the first to learn about new datasets we release!
 
